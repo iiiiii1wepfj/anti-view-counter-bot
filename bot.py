@@ -1,4 +1,5 @@
 from pyrogram import Client, filters
+from pyrogram.types import Message
 
 api_id = api id
 api_hash = 'api hash'
