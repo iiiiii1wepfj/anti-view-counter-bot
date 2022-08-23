@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-api_id = api id
+api_id = your api id
 api_hash = "api hash"
 token = "token"
 
